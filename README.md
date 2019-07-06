@@ -1,0 +1,2 @@
+# HAL-internship-on-secure-data-in-defence-and-research-areas-using-steganography
+HAL is an Indian-state –owned aerospace and defense company and it is governed under the management of the Indian Ministry of Defense. So maintain and transformation of  the information or data which is related to some research works of defense or research and development organization is major task. Our Proposed system mainly concentrates on securing data transfer in air traffic controller. 
